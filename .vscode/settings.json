@@ -1,0 +1,9 @@
+{
+  "formattingToggle.affects": [
+
+    "formatOnPaste",
+    "formatOnSave",
+    "formatOnType"
+  ],
+  "editor.defaultFormatter": "esbenp.prettier-vscode"
+}
